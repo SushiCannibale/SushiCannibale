@@ -1,5 +1,6 @@
-## Hi there 👋
+[](https://ih1.redbubble.net/image.5500570718.6485/raf,360x360,075,t,fafafa:ca443f4786.jpg)
 
+## Hipublic static void main(String args[])
 <!--
 **SushiCannibale/SushiCannibale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
