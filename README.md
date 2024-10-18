@@ -1,9 +1,17 @@
-[](https://ih1.redbubble.net/image.5500570718.6485/raf,360x360,075,t,fafafa:ca443f4786.jpg)
+![Meow](https://ih1.redbubble.net/image.5500570718.6485/raf,360x360,075,t,fafafa:ca443f4786.jpg)
 
-## Hipublic static void main(String args[])
+## Hellow there >:3
+
+### About me
+- [x] ☕ Coffee addict ☕
+- [x] 💻 `assert(programming_fanatism.enabled)` 💻
+- [x] 💜 Pixelart lover 💜
+- [x] 🇫🇷 French guy 🇫🇷
+- [ ] 🌿 Catnip addict 🌿
+
+### My (mostly unfinished) Projects
+
 <!--
-**SushiCannibale/SushiCannibale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
