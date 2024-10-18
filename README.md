@@ -4,7 +4,7 @@
 
 ## Hellow there >:3
 <p align=center>
-    <img src="https://dcbadge.limes.pink/api/shield/297750529076101121" />
+    <img src="https://dcbadge.limes.pink/api/shield/297750529076101121" href="https://discordapp.com/users/297750529076101121">
 </p>
 
 ### = About me =
