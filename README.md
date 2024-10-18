@@ -1,25 +1,23 @@
-![Meow](https://ih1.redbubble.net/image.5500570718.6485/raf,360x360,075,t,fafafa:ca443f4786.jpg)
+<p align=center>
+    <img align="center" src="https://ih1.redbubble.net/image.5500570718.6485/raf,360x360,075,t,fafafa:ca443f4786.jpg">
+</p>
 
 ## Hellow there >:3
+<p align=center>
+    <img src="https://dcbadge.limes.pink/api/shield/297750529076101121" />
+</p>
 
-### About me
+### = About me =
 - [x] ☕ Coffee addict ☕
 - [x] 💻 `assert(programming_fanatism.enabled)` 💻
 - [x] 💜 Pixelart lover 💜
 - [x] 🇫🇷 French guy 🇫🇷
-- [ ] 🌿 Catnip addict 🌿
+- [ ] 🌿 Catnip detoxed 🌿
 
-### My (mostly unfinished) Projects
+### = My projects =
+- [x] Homemade [`dotfiles`](https://github.com/SushiCannibale/dotfiles)
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I like
+- [x] 🍣 Sushis 🍣
+- [x] *[These peoples <3](https://github.com/neoforged)* (go give them stars fr)
+- [x] 😺 Catppuccin 😺
