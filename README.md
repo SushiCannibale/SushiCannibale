@@ -4,8 +4,10 @@
 
 ## Hellow there >:3
 <p align=center>
-    <img src="https://dcbadge.limes.pink/api/shield/297750529076101121" href="https://discordapp.com/users/297750529076101121">
-</p>
+    <a href="https://discordapp.com/users/297750529076101121">
+        <img src="https://dcbadge.limes.pink/api/shield/297750529076101121">
+    </a>
+</a>
 
 ### = About me =
 - [x] ☕ Coffee addict ☕
@@ -19,5 +21,5 @@
 
 ### Things I like
 - [x] 🍣 Sushis 🍣
-- [x] *[These peoples <3](https://github.com/neoforged)* (go give them stars fr)
+- [x] *[These peoples <3](https://github.com/neoforged)* (go give them love fr)
 - [x] 😺 Catppuccin 😺
