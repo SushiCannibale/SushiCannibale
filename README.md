@@ -11,8 +11,7 @@ Thanks for visiting my page. Feel free to contact me, even just for chatting ^-^
     </a>
 </a>
 
-### = About me =
----
+## = About me =
 ☕ Coffee addict ☕\
 💻 `assert(c_fanatism.enabled)` 💻\
 💜 Pixelart lover 💜\
@@ -20,14 +19,12 @@ Thanks for visiting my page. Feel free to contact me, even just for chatting ^-^
 🍀 Guaranteed catnip free 🍀
 
 
-### = My ongoing projects =
----
+## = My ongoing projects =
 🍚 Cooked some [`rice`](https://github.com/SushiCannibale/dotfiles) 🍚\
 The [`Symbowls`](https://github.com/SushiCannibale/Symbowls) application
 
 
-### = Things I like =
----
+## = Things I like =
 🦊 The [`Neoforged`](https://github.com/neoforged) project[^1] 🦊\
 😺 The [`Catppuccin`](https://catppuccin.com/) ports 😺
 
