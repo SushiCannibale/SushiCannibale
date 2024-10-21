@@ -12,24 +12,23 @@ Thanks for visiting my page. Feel free to contact me, even just for chatting ^-^
 </a>
 
 ### = About me =
-☕ Coffee addict ☕
-
-💻 `assert(c_fanatism.enabled)` 💻
-
-💜 Pixelart lover 💜
-
-🇫🇷 French guy 🇫🇷
-
+---
+☕ Coffee addict ☕\
+💻 `assert(c_fanatism.enabled)` 💻\
+💜 Pixelart lover 💜\
+🇫🇷 French guy 🇫🇷\
 🍀 Guaranteed catnip free 🍀
 
-### = My ongoing projects =
-🍚 Cooked some [`rice`](https://github.com/SushiCannibale/dotfiles) 🍚
 
-The [`Symbowls`](https://github.com/SushiCannibale/Symbowls) application  
+### = My ongoing projects =
+---
+🍚 Cooked some [`rice`](https://github.com/SushiCannibale/dotfiles) 🍚\
+The [`Symbowls`](https://github.com/SushiCannibale/Symbowls) application
+
 
 ### = Things I like =
-🦊 The [`Neoforged`](https://github.com/neoforged) project[^1] 🦊
-
+---
+🦊 The [`Neoforged`](https://github.com/neoforged) project[^1] 🦊\
 😺 The [`Catppuccin`](https://catppuccin.com/) ports 😺
 
 <!-- <p align=center>
