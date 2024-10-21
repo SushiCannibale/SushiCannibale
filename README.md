@@ -3,7 +3,7 @@
 </p>
 
 ## Hellow there >:3
-Thanks for visiting my page. Feel free to contact me, even just for chatting ^-^
+Thanks for visiting my page. Feel free to contact me on discord, even just for chatting ^-^
 
 <p align=center>
     <a href="https://discordapp.com/users/297750529076101121">
