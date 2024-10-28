@@ -22,6 +22,7 @@ Feel free to contact me on discord, even just for chatting ^-^
 
 ## = My ongoing projects =
 🍚 Cooked some [`rice`](https://github.com/SushiCannibale/dotfiles) 🍚
+🍸 A handy tool for copy-pasting [`symbols`](https://github.com/SushiCannibale/hyprsymbol) 🍸
 
 ## = Things I like =
 🦊 The [`Neoforged`](https://github.com/neoforged) project[^1] 🦊\
