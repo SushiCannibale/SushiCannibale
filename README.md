@@ -1,7 +1,7 @@
-<p align=center>
-    <img align="center" src="https/media.tenor.com/NO9JqxnwS6YAAAPo/bowser-marioparty.mp4">
-</p>
-
+<!-- <p align=center>
+    <img align="center" src="[https/media.tenor.com/NO9JqxnwS6YAAAPo/bowser-marioparty.mp4](https://tenor.com/view/bowser-marioparty-bicycle-go-gif-13378536">
+</p> -->
+[https/media.tenor.com/NO9JqxnwS6YAAAPo/bowser-marioparty.mp4](https://tenor.com/view/bowser-marioparty-bicycle-go-gif-13378536)
 ## Hi~ >:3
 Thanks for visiting my page ^^.
 Feel free to contact me on discord, even just for chatting ^-^
