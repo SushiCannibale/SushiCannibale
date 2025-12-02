@@ -1,5 +1,5 @@
 <p align=center>
-    <img align="center" src="https://ih1.redbubble.net/image.5500570718.6485/raf,360x360,075,t,fafafa:ca443f4786.jpg">
+    <img align="center" src="https/media.tenor.com/NO9JqxnwS6YAAAPo/bowser-marioparty.mp4">
 </p>
 
 ## Hi~ >:3
